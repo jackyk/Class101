@@ -1,3 +1,9 @@
 
 My name is Jane Doe and I am curious.
+<<<<<<< HEAD
 Of how the onepiece manga will end. I am hoping for the best to the winner.
+=======
+Of how the onepiece manga will end
+hi people this is Diana atsula and Jason will crush you all.
+>>>>>>> 6b9bb9c5f590dacd170a523a356ff9170aa9075e
+Blahblahblah sitaki kuskia!!!!!

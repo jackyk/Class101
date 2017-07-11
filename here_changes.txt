@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 WE ARE THE WORLDkama kimani
+=======
+kama kimani
+class rocks kimani
+>>>>>>> 6b9bb9c5f590dacd170a523a356ff9170aa9075e
+Blahblahblah sitaki kuskia!!!!!
